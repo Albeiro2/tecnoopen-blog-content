@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Las 5 Tendencias de Desarrollo Web en 2026",
+      "slug": "tendencias-desarrollo-web-2026",
+      "excerpt": "Descubre las tecnologías que están revolucionando el desarrollo web este año y cómo pueden impulsar tu negocio.",
+      "content": "El desarrollo web está en constante evolución...",
+      "category": "Desarrollo Web",
+      "author": "TecnoOpen Team",
+      "date": "2026-01-15",
+      "readTime": "5 min",
+      "image": "noticia-1.jpg",
+      "tags": ["React", "Web Development", "Tecnología"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "SEO en 2026: Estrategias que Funcionan",
+      "slug": "seo-estrategias-2026",
+      "excerpt": "Aprende las mejores prácticas de SEO para posicionar tu sitio web en los primeros resultados de búsqueda.",
+      "content": "El SEO ha evolucionado significativamente...",
+      "category": "Marketing Digital",
+      "author": "TecnoOpen Team",
+      "date": "2026-01-10",
+      "readTime": "7 min",
+      "image": "noticia-2.jpg",
+      "tags": ["SEO", "Marketing", "Google"],
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Cómo la IA está Transformando el Desarrollo de Software",
+      "slug": "ia-desarrollo-software",
+      "excerpt": "La inteligencia artificial está cambiando la forma en que desarrollamos aplicaciones. Descubre cómo aprovecharla.",
+      "content": "La IA no es el futuro, es el presente...",
+      "category": "Inteligencia Artificial",
+      "author": "TecnoOpen Team",
+      "date": "2026-01-05",
+      "readTime": "6 min",
+      "image": "noticia-1.jpg",
+      "tags": ["IA", "Machine Learning", "Innovación"],
+      "featured": true
+    }
+  ],
+  "categories": [
+    "Desarrollo Web",
+    "Marketing Digital",
+    "Inteligencia Artificial",
+    "Diseño UX/UI",
+    "Tecnología",
+    "Tutoriales"
+  ]
+}
+
