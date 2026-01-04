@@ -12,7 +12,8 @@
       "readTime": "5 min",
       "image": "noticia-1.jpeg",
       "tags": ["React", "Web Development", "Tecnología"],
-      "featured": true
+      "featured": true,
+      "externalUrl": "https://thebridge.tech/blog/tendecias-desarrollo-web/"
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "readTime": "7 min",
       "image": "noticia-3.webp",
       "tags": ["SEO", "Marketing", "Google"],
-      "featured": false
+      "featured": false,
+      "externalUrl": "https://www.jrizo.com/blog/10-tacticas-seo/
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
       "readTime": "6 min",
       "image": "noticia-2.webp",
       "tags": ["IA", "Machine Learning", "Innovación"],
-      "featured": true
+      "featured": true,
+      "externalUrl": "https://www.paway-latam.com/como-la-ia-va-a-transformar-el-mundo-en-2025-algunas-reflexiones-iniciales/"
     }
   ],
   "categories": [
